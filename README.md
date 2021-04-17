@@ -1,1 +1,3 @@
-# confighq.github.io
+# configHQ
+
+Documentation for configHQ
